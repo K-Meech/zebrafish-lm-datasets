@@ -1664,6 +1664,66 @@
         ]
       },
       "isExclusive": true
+    },
+    "TEST5": {
+      "uiSelectionGroup": "bookmark",
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "(r\u003d255,g\u003d255,b\u003d255,a\u003d255)",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "showImagesIn3d": false,
+            "name": "056F63395C_lynEGFP",
+            "opacity": 1.0,
+            "sources": [
+              "056F63395C_lynEGFP"
+            ]
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "Glasbey",
+            "valueLimits": [
+              null,
+              null
+            ],
+            "selectedSegmentIds": [],
+            "showSelectedSegmentsIn3d": false,
+            "showScatterPlot": false,
+            "scatterPlotAxes": [
+              "anchor_x",
+              "anchor_y"
+            ],
+            "tables": [],
+            "name": "056F63395C_lynEGFP_seg",
+            "opacity": 1.0,
+            "sources": [
+              "056F63395C_lynEGFP_seg"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [],
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.00616112652811736,
+          0.0,
+          0.0,
+          -0.4203193765281174,
+          0.0,
+          0.00616112652811736,
+          0.0,
+          -0.3328331295843521,
+          0.0,
+          0.0,
+          0.00616112652811736,
+          -0.10790591462790694
+        ]
+      },
+      "isExclusive": true
     }
   }
 }
