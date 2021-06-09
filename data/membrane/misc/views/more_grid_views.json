@@ -92,7 +92,7 @@
               "0B51F8B46C_lynEGFP_seg",
               "0E48AB134C_lynEGFP_seg"
             ],
-			"tables": ["shape_CFOR_pca_measured"]
+			"tables": ["shape_CFOR_pca_measured.tsv"]
           }
         }
       ],
