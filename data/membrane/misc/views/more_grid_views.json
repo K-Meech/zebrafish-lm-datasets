@@ -60,8 +60,7 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
-    }
-  },
+    },
   "medium-grid-view-with-extra-table": {
       "isExclusive": true,
       "sourceDisplays": [
@@ -124,5 +123,5 @@
       ],
       "uiSelectionGroup": "bookmark"
     }
-  }
+}
 }
